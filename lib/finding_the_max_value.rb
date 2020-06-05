@@ -1,5 +1,4 @@
 def find_max_value(array)
-  # Add your solution here
   max=0
   count=0
   while count<array.length do
@@ -8,5 +7,4 @@ def find_max_value(array)
       count+=1
     end
   end
-  max
 end
